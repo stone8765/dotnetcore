@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadConfiguration": {
+      "commandName": "Project",
+      "commandLineArgs": "path=cmdvalue"
+    }
+  }
+}
