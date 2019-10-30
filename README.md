@@ -1,0 +1,2 @@
+# dotnetcore
+dotnet core practice
